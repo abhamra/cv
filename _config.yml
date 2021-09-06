@@ -13,7 +13,7 @@ markdown: kramdown
 
 # Pagination
 paginate: 4
-permalink: /club/:year/:title/
+permalink: /club/:title/
 paginate_path: /club/page:num/
 
 # Social media links in footer
