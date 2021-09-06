@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Arjun Bhamra
-description: ASDRP Computational Physics Researcher | Technology Coordinator for STEMchats | Code Sensei for Code Ninjas
+description: Computational Physics Researcher | Technology Coordinator for STEMchats | Code Sensei for Code Ninjas
 
 baseurl: /cv #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
@@ -19,7 +19,7 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 #facebook: "#"
 #twitter: "#"
-linkedin: "arjun-bhamra/"
+linkedin: "arjun-bhamra"
 github: "abhamra"
 #researchgate: "#"
 #orcid: "#"
