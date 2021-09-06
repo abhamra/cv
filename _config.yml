@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Arjun Bhamra
+description: Avid Programmer and Researcher | Technology Coordinator for STEMchats & Code Sensei for Code Ninjas | Serotonin is overrated
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: /cv #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: arjun.bhamra25@gmail.com
 
 
 highlighter: rouge
