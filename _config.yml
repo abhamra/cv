@@ -19,8 +19,8 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 #facebook: "#"
 #twitter: "#"
-linkedin: "https://www.linkedin.com/in/arjun-bhamra/"
-github: "https://github.com/abhamra"
+linkedin: "arjun-bhamra/"
+github: "abhamra"
 #researchgate: "#"
 #orcid: "#"
 
